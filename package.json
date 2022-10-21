@@ -1,16 +1,16 @@
 {
-"name": "fmf88",
-"theme": "fmf88",
-"version": "5.1.6",
-"description": "fmf88 สมัครเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"fmf88",
-"fmf88 เครดิตฟรี",
-"fmf88 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/fmf88",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "fmf88",
+  "theme": "fmf88",
+  "version": "5.2.0",
+  "description": "fmf88 สมัครเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "fmf88",
+    "fmf88 เครดิตฟรี",
+    "fmf88 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/fmf88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
